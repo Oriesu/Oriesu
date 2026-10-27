@@ -16,5 +16,3 @@ I enjoy turning ideas into usable software. I work on applications, web projects
 ### Explore more
 
 [**Portfolio**](https://oriesu.netlify.app/) · [**Apps & other collaborations**](https://linktr.ee/Oriesu)
-
-The pinned repositories below are a starting point for exploring my public code.
