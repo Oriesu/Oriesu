@@ -1,4 +1,4 @@
-# Javi · Oriesu
+# Oriesu
 
 **Software Developer && Computer Science + Business Administration Student**
 
